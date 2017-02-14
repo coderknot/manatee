@@ -20,3 +20,17 @@
 .dark-background span{
   color: yellow;
 }
+
+.light-background {
+  background-color: white;
+  color: black;
+}
+
+.light-background span {
+    color: #0088cc;
+}
+
+.paragraph-highlight {
+  background-color: pink;
+  border: 3px solid;
+}
