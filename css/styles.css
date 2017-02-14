@@ -12,3 +12,11 @@
 .clickable:hover, .btn-clickable, .clickable2 {
   text-decoration: underline;
 }
+
+.dark-background {
+  background-color: grey;
+  color: white;
+}
+.dark-background span{
+  color: yellow;
+}
